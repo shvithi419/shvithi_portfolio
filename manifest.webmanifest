@@ -1,0 +1,21 @@
+
+{
+  "id": "./",
+  "name": "Study Room by Shvithi",
+  "short_name": "Study Room",
+  "description": "A calm and elegant space to plan your studies.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4efe5",
+  "theme_color": "#17263f",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
